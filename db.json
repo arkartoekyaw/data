@@ -1,14 +1,14 @@
 {
   "blogs": [
     {
-      "title": "HTML:  HyperText Markup Language",
-      "shortnote": "HTML is the standard markup language for Web pages.\nWith HTML you can create your own Website.\nHTML is easy to learn - You will enjoy it!",
+      "title": "HTML",
+      "shortnote": "HTML is the HyperText Markup Language.\nIt is the standard markup language for Web pages.\nWith HTML you can create your own Website.",
       "body": "HTML (HyperText Markup Language) is the most basic building block of the Web.\nIt defines the meaning and structure of web content.\nOther technologies besides HTML are generally used to describe a web page's appearance/presentation (CSS) or functionality/behavior (JavaScript).\n'Hypertext' refers to links that connect web pages to one another, either within a single website or between websites.\nLinks are a fundamental aspect of the Web.\nBy uploading content to the Internet and linking it to pages created by other people, you become an active participant in the World Wide Web.\nHTML uses 'markup' to annotate text, images, and other content for display in a Web browser.\nHTML markup includes special 'elements' such as <head>, <title>, <body>, <header>, <footer>, <article>, <section>, <p>, <div>, <span>, <img>, <aside>, <audio>, <canvas>, <datalist>, <details>, <embed>, <nav>, <output>, <progress>, <video>, <ul>, <ol>, <li> and many others.\nAn HTML element is set off from other text in a document by 'tags', which consist of the element name surrounded by '<' and '>'.\nThe name of an element inside a tag is case insensitive.\nThat is, it can be written in uppercase, lowercase, or a mixture.\nFor example, the <title> tag can be written as <Title>, <TITLE>, or in any other way.",
       "id": 1
     },
     {
-      "title": "CSS: Cascading Style Sheets",
-      "shortnote": "CSS is the language we use to style an HTML document.\nCSS describes how HTML elements should be displayed.",
+      "title": "CSS",
+      "shortnote": "CSS stands for Cascading Style Sheets.\nCSS is the language we use to style an HTML document.\nCSS describes how HTML elements should be displayed.",
       "body": "Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML or XHTML).\nCSS describes how elements should be rendered on screen, on paper, in speech, or on other media.\nCSS is among the core languages of the open web and is standardized across Web browsers according to W3C specifications.\nPreviously, development of various parts of CSS specification was done synchronously, which allowed versioning of the latest recommendations.\nYou might have heard about CSS1, CSS2.1, CSS3. However, CSS4 has never become an official version.\nFrom CSS3, the scope of the specification increased significantly and the progress on different CSS modules started to differ so much, that it became more effective to develop and release recommendations separately per module.\nInstead of versioning the CSS specification, W3C now periodically takes a snapshot of the latest stable state of the CSS specification.",
       "id": 2
     },
@@ -30,6 +30,5 @@
       "body": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.\nDeclarative views make your code more predictable and easier to debug.\nBuild encapsulated components that manage their own state, then compose them to make complex UIs.\nSince component logic is written in JavaScript instead of templates, you can easily pass rich data through your app and keep state out of the DOM.\nWe don’t make assumptions about the rest of your technology stack, so you can develop new features in React without rewriting existing code.\nReact can also render on the server using Node and power mobile apps using React Native.",
       "id": 5
     }
-]
- 
-}
+    ]
+   }
